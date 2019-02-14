@@ -35,4 +35,4 @@ hs_err_pid*
 /org.eclipse.wst.jsdt.ui.superType.name
 /org.eclipse.wst.validation.prefs
 
-src/META-INF/
+/src/main/webapp/META-INF/
