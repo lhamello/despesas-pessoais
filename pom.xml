@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.lhamello</groupId>
-	<artifactId>financas-pessoais</artifactId>
+	<artifactId>gerenciador-financas-pessoais</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	
